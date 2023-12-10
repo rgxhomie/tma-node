@@ -1,0 +1,15 @@
+{
+  "name": "tma-most-repeated-letter",
+  "version": "1.0.0",
+  "description": "Find the most repeated letter in a text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "most repeated letter",
+    "text analysis"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
